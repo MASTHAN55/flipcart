@@ -1,4 +1,4 @@
-# flipcart
+# flipkart
 Flipkart Clone(using html,css,Bootstrap&amp;javascript)
 # This is an Flipkart Clone Project
 ## Tools used to build this project:
