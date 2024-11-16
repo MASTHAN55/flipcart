@@ -40,6 +40,8 @@ $(document).ready(function () {
 
             }
         }
+
+        
     })
 })
 // window.location.href = "file:///home/divyansh/coding/project/flipkart/login.html";
